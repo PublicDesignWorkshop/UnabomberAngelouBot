@@ -1,2 +1,2 @@
 # UnabomberAngelouBot
-Unabomber's Manifest + Maya Angelou poems Twitter Bot
+Rewrites poems from Maya Angelou by inserting nouns, verbs, and adjectives from the Unabomber's Manifesto.
